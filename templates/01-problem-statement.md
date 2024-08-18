@@ -1,4 +1,11 @@
-# Mapo Observabiity - Problem Statement
+# Project Name - Problem Statement
+
+- [Project Name - Problem Statement](#project-name---problem-statement)
+  - [Overview](#overview)
+  - [Problem Description](#problem-description)
+    - [👤 User Persona - ReplaceMe](#-user-persona---replaceme)
+    - [👤 User Persona - ReplaceMe](#-user-persona---replaceme-1)
+
 
 ## Overview
 This document outlines the problems that initiated the creation of this project. 
@@ -10,13 +17,13 @@ Each problem statement includes:
 - An action that that user is trying to do
 - Something that maeks that action difficult or impossible
 
-A problem statement here follows the format: "To \<business action>, I want to \<technical action>, But \<problem statement>"
+A problem statement here is inspired by user-stories, and follows this format: "To \<business action>, I want to \<technical action>, But \<problem statement>"
 
 
 ## Problem Description
 
-### User Persona - ReplaceMe
+### 👤 User Persona - ReplaceMe
 - To \<business action>, I want to \<technical action>, but \<problem statement>
 
-### User Persona - ReplaceMe
+### 👤 User Persona - ReplaceMe
 - To \<business action>, I want to \<technical action>, but \<problem statement>
