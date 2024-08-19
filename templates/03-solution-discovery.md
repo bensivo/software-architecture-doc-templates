@@ -31,6 +31,7 @@ Factors / Consequences:
 References:
 - Links to documentation, marketing pages, anything a future person would want to invesigate this option further.
 
+---
 
 ### 🔎 ReplaceMe
 Description:
@@ -42,3 +43,4 @@ Factors / Consequences:
 References:
 - Links to documentation, marketing pages, anything a future person would want to invesigate this option further.
 
+---
