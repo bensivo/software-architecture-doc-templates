@@ -3,6 +3,7 @@
 - [Mapo Observabiity - Requirements](#mapo-observabiity---requirements)
   - [Overview](#overview)
   - [Functional Requirements](#functional-requirements)
+    - [👤 User Persona - Mapo Operations Support](#-user-persona---mapo-operations-support)
     - [👤 User Persona - Mapo Developer](#-user-persona---mapo-developer)
     - [👤 User Persona - Mapo Product Manager](#-user-persona---mapo-product-manager)
   - [Non-Functional Requirements](#non-functional-requirements)
@@ -19,16 +20,16 @@ Non Functional requirements don't have a specific format. They include things li
 
 ## Functional Requirements
 
+### 👤 User Persona - Mapo Operations Support
+- I want to see all logs coming from the system, and do basic log search, so that I can triage and debug issues.
+- I want to create dashboards, so that I can aggregate a bunch of important metrics into a single screen.
+- I want to create alerts for metrics, so that I can monitor important metrics, and know if they reach a threshold.
+
 ### 👤 User Persona - Mapo Developer
-- I want to see all the logs from both mapo-api and mapo-webapp, so that I can debug issues.
-
-- I want to be able to search through logs, looking for specific keywords, so that I can find instances of a known issue (assuming I've logged something about that issue in code).
-
-- I want to be able to set up watcher or alerts, so that I can be notified when a metric hits a threshold
-
-- I want to be abel to see all my watchers in a single place, and see if they are all good, so taht I can quickly gauge the health of the system.
-
-- I want to be able to see hardware metrics for Mapo infrastructure, so that I can right-size the infrastructure to save money.
+- I want to easily push logs and metrics to the Observability system.
+- I want to track all my calls to 3rd party services, so that I can identify when some dependency system is having issues.
+- I want to search through logs, looking for specific keywords, so that I can find instances of a known issue (assuming I've logged something about that issue in code).
+- I want to see hardware metrics for Mapo infrastructure, so that I can right-size the infrastructure to save money.
 
 
 ### 👤 User Persona - Mapo Product Manager

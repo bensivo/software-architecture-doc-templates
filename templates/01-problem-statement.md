@@ -9,21 +9,17 @@
 
 ## Overview
 This document outlines the problems that initiated the creation of this project. 
-It documents individual problem statements, broken down by user persona and action.
+It documents individual problem statements, broken down by user persona. 
 
+You could format your problem descriptions like user-stories ("As an X, I would like to X, so that I can X, but X"), but often this data comes from user-interviews, and in that case it's best to just record exactly what was said.
 
-Each problem statement includes: 
-- A user persona
-- An action that that user is trying to do
-- Something that maeks that action difficult or impossible
-
-A problem statement here is inspired by user-stories, and follows this format: "To \<business action>, I want to \<technical action>, But \<problem statement>"
 
 
 ## Problem Description
 
 ### 👤 User Persona - ReplaceMe
-- To \<business action>, I want to \<technical action>, but \<problem statement>
+- I have this issue.
 
 ### 👤 User Persona - ReplaceMe
-- To \<business action>, I want to \<technical action>, but \<problem statement>
+- I have this issue too.
+- Here's another issue I have as well.

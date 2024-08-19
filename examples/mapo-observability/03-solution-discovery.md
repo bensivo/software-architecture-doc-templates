@@ -40,6 +40,7 @@ Factors / Consequences:
 References:
 - https://opentelemetry.io/
 
+---
 
 ### 🔎 NewRelic
 Description:
@@ -54,6 +55,8 @@ Factors / Consequences:
 
 References:
 - Pricing / Feature charts: https://newrelic.com/pricing
+
+---
 
 ### 🔎 Datadog
 Description:
@@ -82,6 +85,7 @@ References:
 - https://grafana.com/products/cloud/
 
 
+---
 ### 🔎 OpenObserve
 Description:
 - A newer open source observability Platform, marketed as the next Elasticsearch
@@ -98,6 +102,7 @@ References:
 - Pricing: https://openobserve.ai/pricing
 - comparison with Grafana: https://openobserve.ai/blog/openobserve-vs-grafana
 
+---
 
 ### 🔎 SigNoz
 Description:
@@ -111,6 +116,7 @@ References:
 - Github: https://github.com/SigNoz/signoz
 
 
+---
 ### 🔎 Etc.
 Other tools I looked at briefly, but didn't proceed with for one reason or another:
 
