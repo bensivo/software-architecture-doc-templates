@@ -23,7 +23,7 @@ The system context diagram defines how this entire system fits in to the world a
 ### Container Diagram
 The container diagram breaks down the components that make up this system, where each component is generally a single deployable entity (e.g. a backend service, a user-persona, a web app, a VM). 
 
-![Placeholder](https://via.placeholder.com/500x300)
+![Mapo Container Diagram](./media/container-diagram.png)
 
 ### Component Diagram (optional)
 Component diagrams further breaks down a single component into the specific code modules that make it up (e.g. different modules in an Angualr app, or controllers, business-logic services, data-access services).
